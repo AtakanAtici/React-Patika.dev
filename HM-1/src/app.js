@@ -1,3 +1,7 @@
 import getData from "./lib/service";
 
-getData();
+function App = () => {
+  getData();
+}
+
+export default App:
